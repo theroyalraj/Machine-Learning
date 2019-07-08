@@ -1,8 +1,7 @@
 # Machine-Learning
 ## Project:Applying Machine Learning technique to recommend movies.
 
-Install
-
+## Install
 This project requires Python 2.x or Python 3.x and the following Python libraries installed:
 
     NumPy
@@ -34,11 +33,11 @@ $ cd surprise
 $ python setup.py install
 
 
-Code:
+## Code:
 
 A template notebook is provided as NF-Recommnedation-System.ipynb. All the code is included in the notebook, you will be required to use the notebook to implement the basic functionality of the project and get the movies recommended.
 
-Run:
+## Run:
 
 In a terminal or command window, navigate to the top-level project directory Machine-Learning/ (that contains this README) and run one of the following commands:
 
@@ -50,7 +49,7 @@ jupyter notebook NF-Recommnedation-System.ipynb
 
 This will open the Jupyter Notebook software and notebook file in your browser.
 
-Data:
+## Data:
 
 While no dataset is directly provided with the project, you will be required to download and use the Netflix Prize data
 (Dataset from Netflix's competition to improve their reccommendation algorithm) from the given link.
