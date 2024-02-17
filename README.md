@@ -1,7 +1,9 @@
 # Machine-Learning
+
 ## Project:Applying Machine Learning technique to recommend movies.
 
 ## Install
+
 This project requires Python 2.x or Python 3.x and the following Python libraries installed:
 
     NumPy
@@ -12,7 +14,6 @@ This project requires Python 2.x or Python 3.x and the following Python librarie
     Sklearn
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
-
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.7 installer and not the Python 2.x installer. Surprise can then be installed using one of the following commands:
 
@@ -28,10 +29,9 @@ $ conda install -c conda-forge scikit-surprise
 For the latest version, you can also clone the repo and build the source (you'll first need Cython and numpy):
 
 $ pip install numpy cython
-$ git clone https://github.com/NicolasHug/surprise.git
+$ git clone https://github.com/theroyalraj/Machine-Learning.git
 $ cd surprise
 $ python setup.py install
-
 
 ## Code:
 
